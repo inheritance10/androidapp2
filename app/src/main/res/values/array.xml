@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decimal_conversion_options">
+        <item>İkilik Taban</item>
+        <item>Sekizlik Taban</item>
+        <item>On Altılık Taban</item>
+
+    </string-array>
+
+    <string-array name="megabyte_conversion_options">
+        <item>Kilobyte</item>
+        <item>Byte</item>
+        <item>Kibibyte</item>
+        <item>Bit</item>
+
+    </string-array>
+
+    <string-array name="celsius_conversion_options">
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+
+    </string-array>
+</resources>
